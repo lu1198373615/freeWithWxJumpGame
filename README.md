@@ -1,7 +1,7 @@
 # freeWithWxJumpGame
 For Jump_Game in We-Chat, there is an easy way to arriving.
 
-##关于这个java小程序
+## 关于这个java小程序
 
 微信跳一跳在2018年初风靡一时，本代码仓库开源一种基于adb工具和javax.swing界面的跳一跳辅助软件
 
@@ -12,7 +12,7 @@ For Jump_Game in We-Chat, there is an easy way to arriving.
 
 本程序仅供学习和娱乐，请不要用作其他用途
 
-##代码获取及环境安装
+## 代码获取及环境安装
 
 首先来安装Git
 
@@ -32,7 +32,7 @@ For Jump_Game in We-Chat, there is an easy way to arriving.
 
 以上3步遇上困难可将问题发送至邮箱1198373615@qq.com，或添加QQ：1198373615与我联系
 
-##如何运行程序
+## 如何运行程序
 
 对于我试验使用OPPO A59s手机来说，截图保存路径："/sdcard/DCIM/Screenshots"；截图像素大小720*1280
 但你的手机却不一定和我有相同的参数，截图像素大小我通过程序优化已解决不兼容的问题
@@ -49,7 +49,7 @@ For Jump_Game in We-Chat, there is an easy way to arriving.
 
 程序便开始运行了。遇上困难可将问题发送至邮箱1198373615@qq.com，或添加QQ：1198373615与我联系
 
-##程序使用方法
+## 程序使用方法
 
 * 安卓手机打开手机的“开发者模式”，选择“允许USB调试”，允许通过adb shell来进行手机操作
 * 点击左上角的`Pull SC`按钮，将手机当前页面截图并显示到右侧的界面上
