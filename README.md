@@ -2,6 +2,7 @@
 For Jump_Game in We-Chat, there is an easy way to arriving.
 
 ##关于这个java小程序
+
 微信跳一跳在2018年初风靡一时，本代码仓库开源一种基于adb工具和javax.swing界面的跳一跳辅助软件
 
 * javax.swing包写的图形界面是本程序的显著特征
@@ -12,6 +13,7 @@ For Jump_Game in We-Chat, there is an easy way to arriving.
 本程序仅供学习和娱乐，请不要用作其他用途
 
 ##代码获取及环境安装
+
 首先来安装Git
 
 * https://git-scm.com/downloads
@@ -31,6 +33,7 @@ For Jump_Game in We-Chat, there is an easy way to arriving.
 以上3步遇上困难可将问题发送至邮箱1198373615@qq.com，或添加QQ：1198373615与我联系
 
 ##如何运行程序
+
 对于我试验使用OPPO A59s手机来说，截图保存路径："/sdcard/DCIM/Screenshots"；截图像素大小720*1280
 但你的手机却不一定和我有相同的参数，截图像素大小我通过程序优化已解决不兼容的问题
 但截图保存路径仍需你手动修改：
