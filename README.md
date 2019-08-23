@@ -1,5 +1,6 @@
 # freeWithWxJumpGame
 For Jump_Game in We-Chat, there is an easy way to arriving.
+
 ##关于这个java小程序
 微信跳一跳在2018年初风靡一时，本代码仓库开源一种基于adb工具和javax.swing界面的跳一跳辅助软件
 
